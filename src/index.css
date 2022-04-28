@@ -1,0 +1,266 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100&display=swap');
+
+
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	background-color: #1b1f28;
+	color: #e9eaec;
+	font-family: "Ubuntu", sans-serif;
+}
+
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 2px;
+	margin: 2px 2px 2px 2px;
+}
+
+a {
+	background-color: #b10606;
+	border: 1px solid black;
+	height: 25px;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 200;
+	color: #e9eaec;
+	background-color: #1b1f28;
+	border-radius: 5px;
+	border: 1px solid white;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.active {
+	background-color: #1743a8;
+}
+
+@media (min-width: 700px) {
+	.wrapper {
+		display: grid;
+		grid-template-columns: repeat(6, 1fr);
+	}
+}
+
+h2 {
+	margin: 15px;
+}
+
+.word {
+	padding: 25px;
+}
+
+img {
+	max-width: calc(95vw);
+	margin: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+h3{
+	margin: 10px;
+}
+
+
+
+
+
+
+.table{
+	border: 1px solid #8f8f8f;
+	table-layout: fixed;
+	width: 100%;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	background: #1b1f28;
+	border: 1px solid #8f8f8f;
+}
+.table td{
+	padding: 4px;
+	border: 1px solid #8f8f8f;
+}
+.table tbody tr:nth-child(odd){
+	background: #281b23;
+}
+.table tbody tr:nth-child(even){
+	background: #1b1f28;
+}
+
+
+
+.www{
+	margin: 3px;
+	font-size: 14px;
+	font-family: 'Commissioner', sans-serif;
+}
+
+
+
+p{
+	text-indent: 10px
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Nobel*/
+
+
+.wrapper_text{
+	font-family: 'Commissioner', sans-serif;
+	font-size: 14px;
+}
+
+.heading{
+	font-size: 22px;
+	font-weight: 900;
+	margin: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.russ{
+	color: rgb(151, 151, 151);
+}
+
+
+.title{
+	font-size: 18px;
+	font-weight: 900;
+	margin-bottom: 5px;
+	/* margin-top: 25px; */
+	text-align: center;
+}
+
+.article{
+	margin-top: 15px;
+}
+
+
+
+/* Таблицы история*/
+
+.tabl1 {
+	text-align: center;
+	font-family: 'Commissioner', sans-serif;
+	font-size: 14px;
+}
+
+.tabl2{
+	font-size: 14px;
+	font-family: 'Commissioner', sans-serif;
+}
+
+
+
+/* Простой текст */
+/* Главная обертка */
+
+.wrapper_text{
+	margin: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* удалить */
+
+
+
+
+.russ2{
+	font-weight: 200;
+	color: rgb(151, 151, 151);
+}
+
+.pol2{
+	font-weight: 200;
+}
+
+.pol1{
+	font-weight: 200;
+	font-size: 15px;
+}
+
+.russ1 {
+	font-weight: 200;
+	font-size: 15px;
+	color: rgb(151, 151, 151);
+}
+
+
+
+
+
+
+/* Простой текст */
+
+.russ3{
+	font-weight: 500;
+	font-size: 16px;
+	color: rgb(151, 151, 151);
+	margin-top: 3px;
+}
+
+.pol3{
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.pol4 {
+	font-weight: 200;
+	font-size: 16px;
+	line-height: 1.2;
+	color: #dd1212;
+}
+
+.russ4 {
+	font-weight: 200;
+	font-size: 16px;
+	color: rgb(151, 151, 151);
+	line-height: 1.2;
+	color: #dd1212;
+}
+
+

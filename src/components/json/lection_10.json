@@ -1,0 +1,97 @@
+[
+	{
+		"id": "001",
+		"pl": "Boże Narodzenie",
+		"ru": "Католическое рождество - 25 и 26 декабря (выходные)"
+	},
+	{
+		"id": "003",
+		"pl": "Wielkanoc to data ruchoma: przykładowo koniec marca - początek kwietnia.",
+		"ru": "Пасха"
+	},
+	{
+		"id": "005",
+		"pl": "Dzień Wszystkich Świętych",
+		"ru": "День всех святых - 1 ноября (выходной)"
+	},
+	{
+		"id": "006",
+		"pl": "1 listopada w Polsce obchodzą Dzień Wszystkich Świętych, a 2 listopada — Zaduszki, czyli Dzień wspomnienia przodków. W Dzień Zaduszny wierni odwiedzają cmentarze i zapalają znicze. Wcześniej ten dzień nazawano Dziady.",
+		"ru": "День всех святых также часто называют Днем поминовения усопших. Поляки в этот день стараются навестить могилы своих родственников, зажечь лампадку, поставить свечку. С этим праздником также соседствует традиция Задушек (Zaduszki) - 2 ноября. Однако этот день является рабочим."
+	},
+	{
+		"id": "007",
+		"pl": "nareszcie",
+		"ru": "наконец-то"
+	},
+	{
+		"id": "008",
+		"pl": "stołówka",
+		"ru": "столовая"
+	},
+	{
+		"id": "009",
+		"pl": "wcześnie",
+		"ru": "рано"
+	},
+	{
+		"id": "010",
+		"pl": "rano",
+		"ru": "утром"
+	},
+	{
+		"id": "011",
+		"pl": "wykład",
+		"ru": "лекция"
+	},
+	{
+		"id": "012",
+		"pl": "zajęcie",
+		"ru": "занятие"
+	},
+	{
+		"id": "013",
+		"pl": "po południu",
+		"ru": "после обеда"
+	},
+	{
+		"id": "014",
+		"pl": "ubierać się",
+		"ru": "одеваться"
+	},
+	{
+		"id": "015",
+		"pl": "zazwyczaj",
+		"ru": "зачастую, обычно"
+	},
+	{
+		"id": "016",
+		"pl": "później",
+		"ru": "позже"
+	},
+	{
+		"id": "017",
+		"pl": "zęby",
+		"ru": "зубы"
+	},
+	{
+		"id": "018",
+		"pl": "zwykle",
+		"ru": "обычно"
+	},
+	{
+		"id": "019",
+		"pl": "zwykły",
+		"ru": "обычный"
+	},
+	{
+		"id": "020",
+		"pl": "spotykać",
+		"ru": "встречать"
+	},
+	{
+		"id": "021",
+		"pl": "sprzątać",
+		"ru": "убирать"
+	}
+]

@@ -1,0 +1,193 @@
+[
+	{
+		"id": "001",
+		"pl": "nazwa oficjalna ",
+		"ru": "Rzeczpospolita Polska – RP. również – III(trzecia) Rzeczpospolita Polska"
+	},
+	{
+		"id": "002",
+		"pl": "ludność",
+		"ru": "38,5 mln ludzi (97% (procent) - Polacy)"
+	},
+	{
+		"id": "003",
+		"pl": "wiara ",
+		"ru": "90% katolików"
+	},
+	{
+		"id": "004",
+		"pl": "stolica",
+		"ru": "Warszawa. Na godle Warszawy jest Syrena z mieczem i tarczą."
+	},
+	{
+		"id": "005",
+		"pl": "trzy stolicy Polski ",
+		"ru": "Gniezno, Kraków, Warszawa "
+	},
+	{
+		"id": "006",
+		"pl": "godło Polski",
+		"ru": "Biały orzeł w złotej koronie na czerwonym tle. Orzeł patrzy w prawą stronę."
+	},
+	{
+		"id": "007",
+		"pl": "flaga Polski",
+		"ru": "Biały u góry i czerwony u dołu"
+	},
+	{
+		"id": "008",
+		"pl": "podział administracyjny Polski",
+		"ru": "16 województw (Mazowieckie, Małopolskie, Wielkopolskie i inne), 380 powiatów, 2478 gmin"
+	},
+	{
+		"id": "009",
+		"pl": "rzeki",
+		"ru": "Wisła, Odra, Warta, Bug i inne"
+	},
+	{
+		"id": "010",
+		"pl": "miasta, które leżą nad Wisłą",
+		"ru": "Warszawa, Kraków, Toruń i inne"
+	},
+	{
+		"id": "011",
+		"pl": "jeziora",
+		"ru": "Śniardwy, Mamry, Łebsko, Morskie Oko i inne"
+	},
+	{
+		"id": "012",
+		"pl": "morze ",
+		"ru": "Bałtyk = Morze Bałtyckie"
+	},
+	{
+		"id": "013",
+		"pl": "miasta, które leżą nad morzem",
+		"ru": "Trójmiasto (Gdańsk, Gdynia, Sopot), Świnoujście, Szczecin"
+	},
+	{
+		"id": "014",
+		"pl": "największe polskie miasta",
+		"ru": "Warszawa, Kraków, Gdańsk, Łódź, Lublin, Poznań, Wrocław, Toruń, Katowice"
+	},
+	{
+		"id": "015",
+		"pl": "polskie góry",
+		"ru": "Karpaty (Tatry), Bieszczady, Sudety, Pieniny, Góry Świętokrzyskie"
+	},
+	{
+		"id": "016",
+		"pl": "polskie regiony historyczne ",
+		"ru": "Wielkopolska, Małopolska, Mazowsze, Kujawy, Śląsk, Pomorze, Podlasie, Mazury, Warmia"
+	},
+	{
+		"id": "017",
+		"pl": "zabytki w Warszawie",
+		"ru": "Łazienki, Muzeum Powstania Warszawskiego w Warszawie"
+	},
+	{
+		"id": "018",
+		"pl": "zabytki w Krakowie",
+		"ru": "Zamek Wawelski, Kościół Mariacki w Krakowie"
+	},
+	{
+		"id": "019",
+		"pl": "zabytki w Toruniu",
+		"ru": "Dom Muzeum Kopernika, Muzeum Piernika w Toruniu i itd."
+	},
+	{
+		"id": "020",
+		"pl": "najpopularniejsze polskie potrawy",
+		"ru": "Pierogi, kluski, kotlet schabowy, bigos, zupy (żurek, barszcz czerwony, zupa pomidorowa)"
+	},
+	{
+		"id": "021",
+		"pl": "polskie tańce",
+		"ru": "oberek, polonez, krakowiak, mazurek, kujawiak i inne"
+	},
+	{
+		"id": "022",
+		"pl": "polskie pomniki na Białorusi",
+		"ru": "1) Pomnik Adama Mickiewicza w Mińsku; 2) Dom Muzeum A. Mickiewicza w Nowogródku; 3) Muzeum Elizy Orzeszkowej w Grodnie"
+	},
+	{
+		"id": "023",
+		"pl": "Polacy znani na świecie. Czy pamiętasz?",
+		"ru": "1)Najszerzej znanym Polakiem jest papież Jan Paweł II (Karol Wojtyła); 2)Drugim najbardziej znanym na świecie Polakiem jest Lech Wałęsa - Prezydent Rzeczypospolitej Polskiej w latach 1990–1995, laureat Pokojowej Nagrody Nobla (1983); 3)Znanym Polakiem jest także Mikołaj Kopernik (astronom), urodzony w Toruniu; 4)Adam Mickiewicz (poeta), najpopularniejsze utwory: ”Pan Tadeusz”, ”Dziady”, ”Grażyna” i inne"
+	},
+	{
+		"pl": "waluta ",
+		"ru": "polski złoty (=100 groszy) "
+	},
+	{
+		"pl": "najwyższy szczyt Polski ",
+		"ru": "Rysy "
+	},
+	{
+		"id": "020",
+		"pl": "zimowa stolica Polski ",
+		"ru": "Zakopane "
+	},
+	{
+		"id": "021",
+		"pl": "kraj jezior ",
+		"ru": "Mazury "
+	},
+	{
+		"id": "022",
+		"pl": "parki narodowe ",
+		"ru": "Białowieski Park Narodowy (symbol - żubr), Ojcowski Park Narodowy (symbol - nietoperz), Tatrzański Park Narodowy (symbol - kozica)"
+	},
+	{
+		"id": "020",
+		"pl": "sąsiedzi Polski ",
+		"ru": "7: Rosja, Litwa, Białoruś, Ukraina, Słowacja, Czechy, Niemcy"
+	},
+	{
+		"id": "021",
+		"pl": "pustynia",
+		"ru": "Błędowska. То jest obszar lotnych piasków (około 33 km2) leżący na pograniczu Wyżyny Śląskiej i Wyżyny Olkuskiej (województwa śląskie i małopolskie)"
+	},
+	{
+		"id": "022",
+		"pl": "ostatni król Polski",
+		"ru": "Stanisław August Poniatowski (1764—1795)"
+	},
+	{
+		"id": "020",
+		"pl": "Józef Piłsudski",
+		"ru": "był Marszałkiem Polski, za którym Polska odzyskała Niepodległość (1918)"
+	},
+	{
+		"id": "021",
+		"pl": "pierwszy prezydent RP II",
+		"ru": "Gabriel Narutowicz(11 grudnia - 16 grudnia 1922)"
+	},
+	{
+		"id": "022",
+		"pl": "ostatni prezydenci RP",
+		"ru": "Wojciech Jaruzelski(1989-1990)"
+	},
+	{
+		"id": "020",
+		"pl": " ",
+		"ru": "Lech Wałęsa (1990–1995)"
+	},
+	{
+		"id": "021",
+		"pl": " ",
+		"ru": "Aleksander Kwaśniewski (1995–2005)"
+	},
+	{
+		"id": "022",
+		"pl": " ",
+		"ru": "Lech Kaczyński (2005–2010)"
+	},
+	{
+		"id": "021",
+		"ru": "Bronisław Komorowski (2010–2015)"
+	},
+	{
+		"id": "022",
+		"ru": "Andrzej Duda (2015–...)"
+	}
+]

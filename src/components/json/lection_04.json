@@ -1,0 +1,192 @@
+[
+	{
+		"id": "001",
+		"pl": 0,
+		"ru": "zero"
+	},
+	{
+		"id": "002",
+		"pl": 1,
+		"ru": "jeden"
+	},
+	{
+		"id": "003",
+		"pl": 2,
+		"ru": "dwa"
+	},
+	{
+		"id": "004",
+		"pl": 3,
+		"ru": "trzy"
+	},
+	{
+		"id": "005",
+		"pl": 4,
+		"ru": "cztery"
+	},
+	{
+		"id": "006",
+		"pl": 5,
+		"ru": "pięć"
+	},
+	{
+		"id": "007",
+		"pl": 6,
+		"ru": "sześć"
+	},
+	{
+		"id": "008",
+		"pl": 7,
+		"ru": "siedem"
+	},
+	{
+		"id": "009",
+		"pl": 8,
+		"ru": "osiem"
+	},
+	{
+		"id": "010",
+		"pl": 9,
+		"ru": "dziewięć"
+	},
+	{
+		"id": "011",
+		"pl": 10,
+		"ru": "dziesięć"
+	},
+	{
+		"id": "012",
+		"pl": 11,
+		"ru": "jedena-ście"
+	},
+	{
+		"id": "013",
+		"pl": 12,
+		"ru": "dwana-ście"
+	},
+	{
+		"id": "014",
+		"pl": 13,
+		"ru": "trzyna-ście"
+	},
+	{
+		"id": "015",
+		"pl": 14,
+		"ru": "czterna-ście"
+	},
+	{
+		"id": "016",
+		"pl": 15,
+		"ru": "piętna-ście"
+	},
+	{
+		"id": "017",
+		"pl": 16,
+		"ru": "szesna-ście"
+	},
+	{
+		"id": "018",
+		"pl": 17,
+		"ru": "siedemna-ście"
+	},
+	{
+		"id": "019",
+		"pl": 18,
+		"ru": "osiemna-ście"
+	},
+	{
+		"id": "020",
+		"pl": 19,
+		"ru": "dziewiętna-ście"
+	},
+	{
+		"id": "021",
+		"pl": 20,
+		"ru": "Dwa-dzieścia"
+	},
+	{
+		"id": "022",
+		"pl": 30,
+		"ru": "Trzy-dzieści"
+	},
+	{
+		"id": "023",
+		"pl": 40,
+		"ru": "Czter-dzieści"
+	},
+	{
+		"id": "024",
+		"pl": 50,
+		"ru": "Pięć-dziesiąt"
+	},
+	{
+		"id": "025",
+		"pl": 60,
+		"ru": "Sześć-dziesiąt"
+	},
+	{
+		"id": "026",
+		"pl": 70,
+		"ru": "Siedem-dziesiąt"
+	},
+	{
+		"id": "027",
+		"pl": 80,
+		"ru": "Osiem-dziesiąt"
+	},
+	{
+		"id": "028",
+		"pl": 90,
+		"ru": "Dziewięć-dziesiąt"
+	},
+	{
+		"id": "029",
+		"pl": 100,
+		"ru": "Sto"
+	},
+	{
+		"id": "030",
+		"pl": 200,
+		"ru": "Dwieście"
+	},
+	{
+		"id": "031",
+		"pl": 300,
+		"ru": "Trzy-sta"
+	},
+	{
+		"id": "032",
+		"pl": 400,
+		"ru": "Cztery-sta"
+	},
+	{
+		"id": "033",
+		"pl": 500,
+		"ru": "Pięć-set"
+	},
+	{
+		"id": "034",
+		"pl": 600,
+		"ru": "Sześć-set"
+	},
+	{
+		"id": "035",
+		"pl": 700,
+		"ru": "Siedem-set"
+	},
+	{
+		"id": "036",
+		"pl": 800,
+		"ru": "Osiem-set"
+	},
+	{
+		"id": "037",
+		"pl": 900,
+		"ru": "Dziewięć-set"
+	},
+	{
+		"id": "038",
+		"pl": 1000,
+		"ru": "Tysiąc"
+	}
+]
