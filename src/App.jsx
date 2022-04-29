@@ -20,7 +20,7 @@ function App() {
 				<NavLink to="/lection_04">Rodzina. Liczbę</NavLink>
 				<NavLink to="/lection_06">Wiadomości*</NavLink>
 				<NavLink to="/lection_09">Pory roku</NavLink>
-				<NavLink to="/lection_10">Święta</NavLink>
+				<NavLink to="/lection_10">*Święta</NavLink>
 				<NavLink to="/lection_11">Mój dzień</NavLink>
 				<NavLink to="/lection_12">Historia*3</NavLink>
 				<NavLink to="/lection_14">Miasto</NavLink>
