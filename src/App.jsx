@@ -17,7 +17,7 @@ function App() {
 		<>
 			<header className="wrapper">
 				<NavLink to="/lection_01">*Alphabet</NavLink>
-				<NavLink to="/lection_04">Rodzina. Liczbę</NavLink>
+				<NavLink to="/lection_04">***Rodzina. Liczbę</NavLink>
 				<NavLink to="/lection_06">Wiadomości*</NavLink>
 				<NavLink to="/lection_09">Pory roku</NavLink>
 				<NavLink to="/lection_10">*Święta</NavLink>
